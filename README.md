@@ -5,11 +5,11 @@
 - 📫 Reach me here only 😂
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="height:10px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="height:100px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="height:100px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="height:100px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="height:100px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="height:100px">
 </div>
 
 <!---
