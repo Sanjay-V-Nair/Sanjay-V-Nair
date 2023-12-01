@@ -4,12 +4,17 @@
 - 💞️ I’m looking to collaborate on the technological world ⚙️🖥️
 - 📫 Reach me here only 😂
 
+
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="height:100px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="height:100px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="height:100px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="height:100px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="height:100px">
+  <h3>Languages</h3>
+</div>
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="height:60px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="height:60px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="height:60px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="height:60px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="height:60px">
 </div>
 
 <!---
