@@ -4,6 +4,14 @@
 - 💞️ I’m looking to collaborate on the technological world ⚙️🖥️
 - 📫 Reach me here only 😂
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+</div>
+
 <!---
 Sanjay-V-Nair/Sanjay-V-Nair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
