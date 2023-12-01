@@ -41,11 +41,12 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 </div>
 
 -------
-<div>
 <h3>Holopin Badges</h3>
+
+[![An image of @sanjayvnair's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanjayvnair)](https://holopin.io/@sanjayvnair)
+
 <!---
 Sanjay-V-Nair/Sanjay-V-Nair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![An image of @sanjayvnair's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanjayvnair)](https://holopin.io/@sanjayvnair)
-</div>
+
