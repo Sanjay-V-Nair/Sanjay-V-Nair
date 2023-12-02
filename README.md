@@ -39,6 +39,15 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="height:60px;margin:100px 0 100px 0;">&nbsp
 </div>
 
+<h3>Tools</h3>
+<br>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" style="height:60px">&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="height:60px">&nbsp
+</div>
+  
+  
+  
 -------
 <h3>Holopin Badges</h3>
 
