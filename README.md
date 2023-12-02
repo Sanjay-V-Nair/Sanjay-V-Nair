@@ -14,15 +14,14 @@
 
 ---
 
-### :woman_technologist: About Me :
+### 👨🏼‍💻 About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 👋 Hi, I’m @Sanjay-V-Nair
-- 👀 I’m interested in Programming 👨‍💻, Game development 🎮, AR & VR Development 🕶️, Cyber security and many more
-- 🌱 I’m currently persueing BTech in CSE 💻 from VIT 🏫
+<h3>👋 Hi, I’m Sanjay V Nair</h3>
+- 👀 I’m interested in Programming 👨‍💻, Game development 🎮, AR & VR Development 🕶️, Cyber security and many more <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" style="height:60px;position:fixed">
+- 💻 I’m currently persueing BTech in CSE  from VIT 🏫
 - 💞️ I’m looking to collaborate on the technological world ⚙️🖥️
-- 📫 Reach me here only 😂
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sanjay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-v-nair/)
+- 📫 Reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sanjay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-v-nair/)
 
 ---
 
