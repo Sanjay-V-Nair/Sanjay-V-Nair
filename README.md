@@ -25,7 +25,7 @@
 ```cpp
 void Sanjay(myself){
 
-  list<char> interests = { "Programming 👨‍💻", "Game development 🎮", "AR & VR Development 🕶️", "Cyber security"}
+  list<char> interests = { "Programming 👨‍💻</>", "Basketball 🏀", "App/Web Debelopment 📱🌐", "AR & VR Development 🕶️", "Game development 🎮", "Cyber security 🕵🏼🛡️"}
 
   char degree = 'BTech in CSE';
   string university = 'VIT  Bhopal';
