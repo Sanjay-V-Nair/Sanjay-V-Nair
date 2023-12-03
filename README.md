@@ -18,9 +18,11 @@
 ---
 
 ### 👨🏼‍💻 About Me
-
+   <h3>👋 Hi, I’m Sanjay V Nair</h3>
+   
   I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-  <h3>👋 Hi, I’m Sanjay V Nair</h3>&nbsp <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" style="height:60px;position:fixed">
+  
+  <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" style="height:80px">
 
 ```cpp
 void Sanjay(myself){
@@ -49,25 +51,38 @@ void Sanjay(myself){
 
 <div>
 <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="height:60px;margin:100px 0 100px 0;">&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="height:60px;margin:100px 0 100px 0;">&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="height:60px;margin:100px 0 100px 0;">&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="height:60px;margin:100px 0 100px 0;">&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="height:60px;margin:100px 0 100px 0;">&nbsp
+  <table>
+    <tr height="90px">
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="height:60px"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="height:60px"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="height:60px"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="height:60px"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="height:60px"></td>
+    </tr>
+  </table>
+  
 </div>
 
 <h3>Tools</h3>
 <br>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" style="height:60px">&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="height:60px">&nbsp
+  <table>
+      <tr>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" style="height:60px"></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="height:60px"></td>
+        <td bgcolor="pink"><img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" style="height:65px"></td>
+      </tr>
+  </table>
+  
+  
+  
 </div>
 
 -------
 <h3>My Hobbies</h3>
 <img align="right" height="200" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*oe4mnvVeRG3yeQWMRVC9DQ.gif" >
 <h4>👨🏼‍💻 Coding</h4>
-<h4>🏀 Basketball</h4>
+ <h4>🏀 Basketball</h4> 
 <h4>🖋️ Writing Stories</h4>
 <h4>🔭 Exploring Science</h4>
 <h4>⚙️🌐 Learning new Tech</h4>
