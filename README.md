@@ -40,7 +40,7 @@ void Sanjay(myself){
 
 ```
 
-📫 Reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sanjay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-v-nair/)
+📫 Reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sanjay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-v-nair/)&nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail:mrsanjayvnair@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=red&link=mailto:mrsanjayvnair@gmail.com)](mailto:mrsanjayvnair@gmail.com)
 
 ---
 
