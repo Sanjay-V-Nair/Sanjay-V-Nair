@@ -25,6 +25,7 @@
   <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" style="height:80px">
 
 ```cpp
+//Myself in a codeshell
 void Sanjay(myself){
 
   list<char> interests = { "Programming 👨‍💻</>", "Basketball 🏀", "App/Web Debelopment 📱🌐", "AR & VR Development 🕶️", "Game development 🎮", "Cyber security 🕵🏼🛡️"}
@@ -33,7 +34,7 @@ void Sanjay(myself){
   string university = 'VIT  Bhopal';
   int year = 3;
 
-  string code[] = ["HTML", "CSS", "Javascript", "C++"];
+  string code[4] = ["HTML", "CSS", "Javascript", "C++"];
   
 }
 
