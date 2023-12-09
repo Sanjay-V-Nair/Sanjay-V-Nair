@@ -71,7 +71,9 @@ void Sanjay(myself){
       <tr>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" style="height:60px"></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="height:60px"></td>
-        <td bgcolor="pink"><img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" style="height:65px"></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" style="height:65px"></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="height:60px"></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="height:60px"></td>
       </tr>
   </table>
   
