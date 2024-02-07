@@ -18,7 +18,7 @@
 ---
 
 ### 👨🏼‍💻 About Me
-   <h3>👋 Hi, I’m Sanjay V Nair</h3>
+   <h3>👋 Hi, I’m <b>Sanjay V Nair</b></h3>
    
   I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
   
@@ -37,6 +37,7 @@ void Sanjay(myself){
   string code[4] = ["HTML", "CSS", "Javascript", "C++"];
 
   string certificates[] = ["Google Cloud Certified Cloud Digital Leader",
+                          "AWS Certified Cloud Practitioner",
                           "Bits & Bytes of Networking by Google, Coursera"] 
 
 }
