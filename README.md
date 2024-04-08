@@ -120,5 +120,12 @@ You can click the Preview link to take a look at your changes.
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-V-Nair&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+  ### My DSA Profile
+  <h4>
+    Leetcode:
+  </h4>
+  
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/SANJAY006?ext=heatmap)
+
 </div>
 
