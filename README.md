@@ -79,6 +79,7 @@ void Sanjay(myself){
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="height:60px"></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="height:60px"></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" style="height:60px"></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="height:60px"></td>
       </tr>
   </table>
   
