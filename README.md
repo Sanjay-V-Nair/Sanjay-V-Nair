@@ -7,12 +7,7 @@
     <a href="https://twitter.com/SanjayVNair06">
       <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-
-    
-    
   </div>
-  
-  
 </div>
 
 ---
