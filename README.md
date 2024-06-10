@@ -116,9 +116,7 @@ You can click the Preview link to take a look at your changes.
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-V-Nair&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@SanjayVNair/30-nites-of-code)  
-  ![@SanjayVNair #30NitesOfCode](https://www.codedex.io/api/petStatus?user=SanjayVNair)
+
 
   ### My DSA Profile
   <h4>
