@@ -25,13 +25,13 @@ void Sanjay(myself){
 
   list<char> interests = { "Programming 👨‍💻</>", "Basketball 🏀", "App/Web Debelopment 📱🌐", "AR & VR Development 🕶️", "Game development 🎮", "Cyber security 🕵🏼🛡️"}
 
-  char degree = 'BTech in CSE';
+  sting degree = 'BTech in CSE';
   string university = 'VIT  Bhopal';
   int year = 3;
 
   string code[4] = ["HTML", "CSS", "Javascript", "C++"];
 
-  string certificates[] = ["Google Cloud Certified Cloud Digital Leader",
+  string certifications[] = ["Google Cloud Certified Cloud Digital Leader",
                           "AWS Certified Cloud Practitioner",
                           "Bits & Bytes of Networking by Google, Coursera"] 
 
