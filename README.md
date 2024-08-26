@@ -15,7 +15,7 @@
 ###👨🏼‍💻 About Me
    <h3>👋 Hi, I’m <b>Sanjay V Nair</b></h3>
    
-  I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
   
   <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" style="height:80px">
 
