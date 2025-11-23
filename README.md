@@ -23,13 +23,13 @@
 //Myself in a codeshell
 void Sanjay(myself){
 
-  list<char> interests = { "Programming 👨‍💻</>", "Basketball 🏀", "App/Web Debelopment 📱🌐", "AR & VR Development 🕶️", "Game development 🎮", "Cyber security 🕵🏼🛡️"}
+  list<char> interests = { "Programming 👨‍💻</>", "Basketball 🏀", "App/Web Debelopment 📱🌐", "Game development 🎮" }
 
   sting degree = 'BTech in CSE';
-  string university = 'VIT  Bhopal';
-  int year = 3;
+  string university = 'VIT';
 
-  string code[4] = ["HTML", "CSS", "Javascript", "C++"];
+  string code[] = [ "C#", "C++"];
+  string tools[] = [ "Unity", "Unreal Engine", "Playworks", "Git"]
 
   string certifications[] = ["Google Cloud Certified Cloud Digital Leader",
                           "AWS Certified Cloud Practitioner",
