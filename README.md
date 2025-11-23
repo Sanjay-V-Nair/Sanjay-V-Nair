@@ -53,10 +53,11 @@ void Sanjay(myself){
 <br>
   <table>
     <tr height="90px">
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="height:60px"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="height:60px"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="height:60px"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="height:60px"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="height:60px"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="height:60px"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="height:60px"></td>
     </tr>
   </table>
@@ -68,11 +69,12 @@ void Sanjay(myself){
 <div>
   <table>
       <tr>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" style="height:60px"></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="height:60px"></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" style="height:65px"></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" style="height:65px"></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="height:60px"></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="height:60px"></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" style="height:60px"></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="height:60px"></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" style="height:60px"></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="height:60px"></td>
       </tr>
